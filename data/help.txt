@@ -1,0 +1,20 @@
+> /help
+> 這個訊息
+
+> /delete channel
+> 刪除所有頻道
+
+> /delete role
+> 刪除所有身份組
+
+> /delete cname
+> 刪除所有同名字的文字頻道
+
+> /delete vname
+> 刪除所有同名字的語音頻道
+
+> /delete category
+> 刪除一個類別裡的所有頻道
+
+> /delete bans
+> Unban所有人
